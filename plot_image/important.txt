@@ -1,0 +1,1 @@
+You will found the view of original image and segmented image side by side here.
